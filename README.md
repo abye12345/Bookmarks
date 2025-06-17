@@ -2,6 +2,10 @@
 
 A simple, responsive web application to manage your bookmarks locally. Built with HTML, CSS, and JavaScript.
 
+## Live Demo
+
+[View Live Demo](https://abye12345.github.io/Bookmarks/)
+
 ## Features
 
 - Add, edit, and delete bookmarks
